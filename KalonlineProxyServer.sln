@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KalonlineProxyServer", "KalonlineProxyServer.pyproj", "{B149C382-BF1F-4DA6-AE1C-E0D2606C71AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B149C382-BF1F-4DA6-AE1C-E0D2606C71AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B149C382-BF1F-4DA6-AE1C-E0D2606C71AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BD5E140-698D-41FF-910F-130AEDF5DD69}
+	EndGlobalSection
+EndGlobal
